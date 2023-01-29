@@ -50,7 +50,9 @@ async function produtosMaisVendidos() {
   });
 
   //ordena por quantidade e ordem alfabetica
-  return newArrProdutos.sort((a, b) => b.quantidade - a.quantidade || a.produto.localeCompare(b.produto)).map(({ produto, quantidade }) => `${produto} - ${quantidade}`);
+  //return newArrProdutos.sort((a, b) => b.quantidade - a.quantidade || a.produto.localeCompare(b.produto)).map(({ produto, quantidade }) => `${produto} - ${quantidade}`);
+
+  return newArrProdutos.sort((a, b) => b.quantidade - a.quantidade || a.produto.localeCompare(b.produto)).map(({ produto }) => produto);
 }
 
 async function valorTotalPedidosCliente(cliente) {

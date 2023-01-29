@@ -55,3 +55,24 @@
 2023-01-29T01:42:55.727Z [delivery-api] error: GET /pedidos - Invalid status code: 10
 2023-01-29T01:43:16.859Z [delivery-api] error: GET /pedidos - Invalid status code: 10
 2023-01-29T01:43:56.171Z [delivery-api] info: API Started!
+2023-01-29T11:40:18.715Z [delivery-api] info: API Started!
+2023-01-29T11:40:42.427Z [delivery-api] info: API Started!
+2023-01-29T11:42:43.312Z [delivery-api] info: API Started!
+2023-01-29T11:42:58.759Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'produto')
+2023-01-29T11:43:12.936Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'produto')
+2023-01-29T11:44:16.618Z [delivery-api] info: API Started!
+2023-01-29T11:47:43.629Z [delivery-api] info: API Started!
+2023-01-29T11:47:50.852Z [delivery-api] info: API Started!
+2023-01-29T11:47:54.514Z [delivery-api] info: API Started!
+2023-01-29T11:47:56.016Z [delivery-api] info: API Started!
+2023-01-29T11:48:02.089Z [delivery-api] info: API Started!
+2023-01-29T11:48:14.253Z [delivery-api] info: API Started!
+2023-01-29T11:48:18.849Z [delivery-api] info: API Started!
+2023-01-29T11:48:20.204Z [delivery-api] info: API Started!
+2023-01-29T11:48:33.395Z [delivery-api] info: API Started!
+2023-01-29T11:48:37.147Z [delivery-api] info: API Started!
+2023-01-29T11:48:59.749Z [delivery-api] info: API Started!
+2023-01-29T11:49:10.596Z [delivery-api] info: API Started!
+2023-01-29T11:50:07.031Z [delivery-api] info: API Started!
+2023-01-29T11:51:06.773Z [delivery-api] info: API Started!
+2023-01-29T11:52:28.051Z [delivery-api] info: DELETE
