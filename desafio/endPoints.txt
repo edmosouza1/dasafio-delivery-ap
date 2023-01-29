@@ -1,0 +1,8 @@
+1 ( x ) criar pedido
+2 ( x ) atualizar pedido
+3 ( x ) atualizar status entrega
+4 ( x ) excluir pedido
+5 ( x ) consultar um pedido
+6 ( x ) Crie um endpoint para consultar o valor total de pedidos já realizados por um mesmo cliente
+7 ( x ) Crie um endpoint para consultar o valor total de pedidos já realizados para um determinado produto
+8 ( x ) Crie um endpoint para retornar os produtos mais vendidos e a quantidade de vezes em que estes foram pedidos.

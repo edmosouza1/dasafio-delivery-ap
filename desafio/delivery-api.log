@@ -1,0 +1,57 @@
+2023-01-28T23:59:00.043Z [delivery-api] info: API Started!
+2023-01-28T23:59:17.055Z [delivery-api] info: API Started!
+2023-01-29T00:00:41.291Z [delivery-api] info: API Started!
+2023-01-29T00:01:51.608Z [delivery-api] info: API Started!
+2023-01-29T00:01:52.662Z [delivery-api] error: GET /pedidos - Cannot access 'newArrProduitos' before initialization
+2023-01-29T00:02:46.415Z [delivery-api] info: API Started!
+2023-01-29T00:06:20.611Z [delivery-api] info: API Started!
+2023-01-29T00:43:11.291Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'map')
+2023-01-29T00:43:13.846Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'map')
+2023-01-29T00:43:25.622Z [delivery-api] info: API Started!
+2023-01-29T00:43:26.493Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'map')
+2023-01-29T00:45:19.517Z [delivery-api] info: API Started!
+2023-01-29T00:50:37.355Z [delivery-api] info: API Started!
+2023-01-29T00:52:14.130Z [delivery-api] info: API Started!
+2023-01-29T00:55:09.942Z [delivery-api] info: API Started!
+2023-01-29T01:00:48.800Z [delivery-api] info: API Started!
+2023-01-29T01:01:11.873Z [delivery-api] info: DELETE
+2023-01-29T01:02:20.492Z [delivery-api] info: API Started!
+2023-01-29T01:02:33.739Z [delivery-api] error: PUT /pedidos - Registro não econtrado.
+2023-01-29T01:02:49.620Z [delivery-api] error: PATCH /pedidos - Registro não econtrado.
+2023-01-29T01:05:17.897Z [delivery-api] error: GET /pedidos - Pedido não encontrado.
+2023-01-29T01:05:26.651Z [delivery-api] error: GET /pedidos - Pedido não encontrado.
+2023-01-29T01:10:45.292Z [delivery-api] info: API Started!
+2023-01-29T01:13:43.174Z [delivery-api] info: API Started!
+2023-01-29T01:13:48.004Z [delivery-api] error: GET /pedidos - data.filter is not a function
+2023-01-29T01:14:03.042Z [delivery-api] info: API Started!
+2023-01-29T01:14:05.939Z [delivery-api] error: GET /pedidos - data.filter is not a function
+2023-01-29T01:14:44.403Z [delivery-api] info: API Started!
+2023-01-29T01:14:47.459Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:15:04.234Z [delivery-api] info: API Started!
+2023-01-29T01:15:06.011Z [delivery-api] error: GET /pedidos - p.cliente.toUppercase is not a function
+2023-01-29T01:15:48.438Z [delivery-api] info: API Started!
+2023-01-29T01:15:54.611Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:16:30.291Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:16:58.170Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:18:12.778Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:18:56.197Z [delivery-api] info: API Started!
+2023-01-29T01:19:38.672Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:22:45.487Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:23:58.833Z [delivery-api] info: API Started!
+2023-01-29T01:23:58.892Z [delivery-api] error: GET /pedidos - Cannot read properties of undefined (reading 'toUpperCase')
+2023-01-29T01:25:56.166Z [delivery-api] info: API Started!
+2023-01-29T01:28:04.136Z [delivery-api] info: API Started!
+2023-01-29T01:29:40.688Z [delivery-api] info: API Started!
+2023-01-29T01:36:16.081Z [delivery-api] info: API Started!
+2023-01-29T01:36:16.254Z [delivery-api] error: GET /pedidos - Invalid status code: NaN
+2023-01-29T01:36:51.574Z [delivery-api] error: GET /pedidos - Invalid status code: NaN
+2023-01-29T01:36:57.417Z [delivery-api] info: API Started!
+2023-01-29T01:37:05.078Z [delivery-api] error: GET /pedidos - Invalid status code: 35.9
+2023-01-29T01:37:51.547Z [delivery-api] info: API Started!
+2023-01-29T01:38:10.512Z [delivery-api] error: GET /pedidos - Invalid status code: 35.9
+2023-01-29T01:39:49.145Z [delivery-api] error: GET /pedidos - Invalid status code: 35.9
+2023-01-29T01:39:53.609Z [delivery-api] info: API Started!
+2023-01-29T01:40:15.671Z [delivery-api] info: API Started!
+2023-01-29T01:42:55.727Z [delivery-api] error: GET /pedidos - Invalid status code: 10
+2023-01-29T01:43:16.859Z [delivery-api] error: GET /pedidos - Invalid status code: 10
+2023-01-29T01:43:56.171Z [delivery-api] info: API Started!
